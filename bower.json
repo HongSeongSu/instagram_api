@@ -1,0 +1,21 @@
+{
+  "name": "instagram_api",
+  "homepage": "https://github.com/sshong1991/instagram_api",
+  "authors": [
+    "sshong1991 <sshong1991@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "swiper": "^3.4.2",
+    "jquery": "^3.2.0"
+  }
+}

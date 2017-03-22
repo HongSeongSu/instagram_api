@@ -2,6 +2,12 @@
 # Created by https://www.gitignore.io/api/python,pycharm,django,linux,git
 .idea/
 .conf-secret/
+
+django_app/static/css/
+
+# bower packages
+bower_components/
+
 ### Django ###
 *.log
 *.pot
